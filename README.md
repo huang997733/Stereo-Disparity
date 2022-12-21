@@ -34,4 +34,5 @@ The left and right images are 8 bit rgb images. The disparity images are 16 bit 
 
 ## Result
 Score 20/25
+
 Check out spec and report for more info
