@@ -8,6 +8,8 @@ Stereo matching is the problem of finding correspondences between two images tha
 
 <img width="763" alt="image" src="https://user-images.githubusercontent.com/88305416/208822475-67d0750c-6454-422c-89c1-f9f5b08438b3.png">
 
+Team with Tianyu Huang thhuang@student.unimelb.edu.au
+
 ## Dataset
 The dataset is curated from https://drivingstereo-dataset.github.io
 
